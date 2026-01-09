@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭I am a Mern-Stack Software Seveloper
+# 💫 About Me: 🔭I am a Mern-Stack Software Seveloper
 
 
 ## 🌐 Socials:
